@@ -20,14 +20,14 @@ It includes different sections like Home, About, Menu, Testimonials, Gallery, an
 ## How to Use
 1. Download or clone the project  
 2. Open `index.html` in your browser  
-3. All images are inside the `Coffee/images` folder  
+3. All images are inside the `coffee/images` folder  
 
 ## Folder Structure
 coffee-website/
 │── index.html
 │── style.css
 │── script.js
-│── Coffee/
+│── coffee/
     └── images/
 
 
