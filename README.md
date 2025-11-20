@@ -33,7 +33,7 @@ coffee-website/
 
 
 ## Live Demo
-(https://github.com/Avnisharma15/coffee-website.git)
+(https://github.com/Avnisharma15/coffee-website)
 
 ## Author
 Created by Avni Sharma ✨
