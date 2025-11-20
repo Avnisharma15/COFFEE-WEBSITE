@@ -1,4 +1,4 @@
-# Coffee Website
+<img width="1885" height="934" alt="image" src="https://github.com/user-attachments/assets/5d248313-9f58-4715-8159-a3db2329782b" /># Coffee Website
 
 This is a simple and responsive coffee shop website made using **HTML, CSS, and JavaScript**.  
 It includes different sections like Home, About, Menu, Testimonials, Gallery, and Contact.
@@ -33,7 +33,7 @@ coffee-website/
 
 
 ## Live Demo
-(https://github.com/Avnisharma15/coffee-website)
+(https://avnisharma15.github.io/coffee-website/)
 
 ## Author
 Created by Avni Sharma ✨
